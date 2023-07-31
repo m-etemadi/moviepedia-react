@@ -1,4 +1,4 @@
-# Simple Currency Converter App
+# Moviepedia
 
 This is a movie data website developed using React.js that fetches data related to movies from an external API. The website allows users to browse through a collection of movies, and also view details about them.
 
